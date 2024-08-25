@@ -1,7 +1,5 @@
 # TransLingua_Pro
 
-# Streamlit Language Translation App
-
 A Streamlit application designed for real-time language translation. The app supports multiple input methods including text input, file uploads, and voice input. Users can translate text between various languages and listen to the translated text through audio feedback. The interface is interactive and features a customizable background.
 
 ## Features
@@ -11,6 +9,8 @@ A Streamlit application designed for real-time language translation. The app sup
 - **Voice Input Translation**: Record your voice, transcribe it, and translate it to the selected language.
 - **Audio Feedback**: Option to listen to the translated text in audio format.
 - **Customizable Background**: Set a background image for the app interface.
+
+![Alt text](trans.png)
 
 ## Installation
 
