@@ -1,0 +1,12 @@
+/* styles.css */
+.main {
+    background-image: url("D://Abhinav//Test//TransLingua_Pro//img.jpg"); /* Update with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.css-1d391kg {
+    padding: 0;
+}
